@@ -1,0 +1,1 @@
+{"nama":"sena_tutor","noHP":"22332345","TahunLahir":"3456","alamat":"abang","saudara":"5","sekolah":"smkn1abang","makanan":"sup ayam"}

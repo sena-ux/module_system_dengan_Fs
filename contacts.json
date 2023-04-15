@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "s",
+        "noHP": "s",
+        "TahunLahir": "s",
+        "alamat": "s",
+        "saudara": "s",
+        "sekolah": "s",
+        "makanan": "s"
+    },
+    {
+        "nama": "sena",
+        "noHP": "123445",
+        "TahunLahir": "12344",
+        "alamat": "bias",
+        "saudara": "6",
+        "sekolah": "smkn 1 abang",
+        "makanan": "mie sup dan ayam goreng"
+    },
+    {
+        "nama": "dina",
+        "noHP": "34567",
+        "TahunLahir": "234234",
+        "alamat": "tista",
+        "saudara": "8",
+        "sekolah": "smkn 1 abang",
+        "makanan": "mie"
+    },
+    {
+        "nama": "data4",
+        "noHP": "232323",
+        "TahunLahir": "23123342",
+        "alamat": "2321312",
+        "saudara": "12321312",
+        "sekolah": "21321312",
+        "makanan": "2342423"
+    }
+]
